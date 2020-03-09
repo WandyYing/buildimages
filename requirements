@@ -1,0 +1,8 @@
+flask
+sh
+selenium
+pytest
+kafka-python
+reportportal-client
+sqlalchemy
+pymysql
