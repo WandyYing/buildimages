@@ -3,6 +3,6 @@ sh
 selenium
 pytest
 kafka-python
-reportportal-client==3.2.3
+reportportal-client
 sqlalchemy
 pymysql
